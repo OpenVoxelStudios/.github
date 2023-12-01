@@ -9,9 +9,11 @@
 
 ## Tools and links
 
+Our Discord: https://discord.gg/cRFHWgnWjE
+
 Our Website: https://www.zygocraft.com/openvoxel
 
-Our Discord: https://discord.gg/cRFHWgnWjE
+Our Youtube Channel: https://youtube.com/@openvoxelstudios
 
 ![We Use Visual Studio Code](https://img.shields.io/badge/Programming-Using%20Visual%20Studio%20Code-cyan?style=flat&logo=visualstudiocode&link=https%3A%2F%2Fwww.blockbench.net%2F)
 ![We Use Blockbench](https://img.shields.io/badge/Designing-Using%20The%20Blockbench%20Software-cyan?style=flat&logo=blockbench&link=https%3A%2F%2Fwww.blockbench.net%2F)
