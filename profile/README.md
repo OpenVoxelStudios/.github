@@ -11,7 +11,7 @@
 
 Our Discord: https://discord.gg/cRFHWgnWjE
 
-Our Website: https://www.zygocraft.com/openvoxel
+Our Website: https://openvoxel.studio
 
 Our Youtube Channel: https://youtube.com/@openvoxel
 
