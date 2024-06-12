@@ -27,12 +27,7 @@ Our Youtube Channel: https://youtube.com/@openvoxel
   <h1>Our Projects</h1>
   We are on a lot of projects! Feel free to try them!
 
-  <h3>Oak House Murder</h3>
-  A game where you need to survive the night from a radioactive monster!
-
-  https://www.planetminecraft.com/project/oak-house-murder/
-
-[![Click Here To Watch The Trailer](https://img.youtube.com/vi/mlZgVdVImTc/0.jpg)](https://www.youtube.com/watch?v=mlZgVdVImTc)
+  <h3>https://openvoxel.studio/games/</h3>
 </div>
 
 <br>
