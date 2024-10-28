@@ -9,6 +9,9 @@
 
 ## Tools and links
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B115BHIB)
+
+
 Our Discord: https://discord.gg/cRFHWgnWjE
 
 Our Website: https://openvoxel.studio
